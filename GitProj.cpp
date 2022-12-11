@@ -5,8 +5,10 @@
 
 int main()
 {
+    using namespace std;
+    setlocale(0, "");
+    cout << "Hello World!\t"<<"Привет Мир";
     
-    std::cout << "Hello World!\n";
     
 }
 
